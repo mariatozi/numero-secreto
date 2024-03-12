@@ -3,6 +3,7 @@
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
+<p>Sobre:</p>
 <p>Jogo de adivinhação para o número secreto.</p>
 
 ## �� Tecnologias
